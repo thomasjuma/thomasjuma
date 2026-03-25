@@ -1,7 +1,7 @@
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Thomas Juma
 ===================================================================================================================================
 
-Software Engineer
+Senior Software Engineer / AI Engineer
 -----------------
 
 A versatile software developer who likes to work with data and numbers. I have developed software solutions for problems in areas such as healthcare, finance or governance as an individual or a team member. This is my most notable phrase: "First solve the problem then write the code."
