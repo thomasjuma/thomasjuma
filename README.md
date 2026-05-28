@@ -8,8 +8,8 @@ A versatile software developer who likes to work with data and numbers. I have d
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [thomas.juma@outlook.com](mailto:thomas.juma@outlook.com)
-* 🚀  I'm currently working on AI Projects.
-* 🧠  I'm learning AI and Automation.
+* 🚀  I'm currently working on AI and Automation Projects.
+* 🧠  I'm learning DevOps, Machine Learning and AI.
 * 🤝  I'm open to collaborating on any software project.
 * ⚡  "First solve the problem then write the code."
 
